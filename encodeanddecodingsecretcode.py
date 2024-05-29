@@ -1,3 +1,6 @@
+#secret code 
+#in this program we can encode as well as decode the secret code based on certain rules
+
 import  string,random
 choice=int(input("if you want to encode enter 1 ,to decode enter 2"))
 if choice==1:
